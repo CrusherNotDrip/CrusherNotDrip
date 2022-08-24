@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi the names **CrusherNotDrip**
 
-<!--
-**CrusherNotDrip/CrusherNotDrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Possibly Helpful Information about me:
+### Pronouns
+* he/him
+* they/them
+### Socials
+* Discord: CrusherNotDrip#1347 (might be outdated sometimes)
+* Twitter: [@CrusherNotDrip](https://twitter.com/CrusherNotDrip/)
+## What do I do?
+* I program
+* I game (stuff like cod and roblox and whatever)
+* I pull all-nighters sometimes because yes
