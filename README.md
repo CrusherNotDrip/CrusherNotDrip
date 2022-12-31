@@ -18,7 +18,7 @@
 
 ## Projects I'm working on:
 ### 🎮 Games 🎮
-* Idle Shards (Owner)
+* wgats a agame????
 
 ### 🎤 FNF Mods 🎤
 * VS Guest 666 (Owner)
