@@ -7,7 +7,7 @@
 * he/him
 * they/them
 ### 💬 Socials 💬
-* Discord: CrusherNotDrip#1347 (might be outdated sometimes)
+* Discord: CrusherNotDrip#6893 (might be outdated sometimes)
 * Twitter: [@CrusherNotDrip](https://twitter.com/CrusherNotDrip/)
 ### 🌈 Sexuality 🌈
 * Straight
@@ -18,11 +18,11 @@
 
 ## Projects I'm working on:
 ### 🎮 Games 🎮
-* wgats a agame????
+* Lucid Nightmares
 
 ### 🎤 FNF Mods 🎤
 * VS Guest 666 (Owner)
-* Doki Doki Funkin' Club!
+* Respect Funkin'
 * VS Paint
 * VS Bob Expanded
-* Respect Funkin'
+* Doki Doki Funkin' Club! (Cancelled ig)
