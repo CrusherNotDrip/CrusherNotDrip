@@ -7,22 +7,24 @@
 * he/him
 * they/them
 ### 💬 Socials 💬
-* Discord: CrusherNotDrip#6893 (might be outdated sometimes)
-* Twitter: [@CrusherNotDrip](https://twitter.com/CrusherNotDrip/)
+* Discord: crushernotdrip
+* Discord Server: https://discord.gg/3JGWVRWUEJ
+* Twitter/X: [@CrusherNotDrip](https://x.com/CrusherNotDrip/)
 ### 🌈 Sexuality 🌈
 * Straight
 ### 🤔 What do I do? 🤔
 * I program
 * I game (stuff like cod and roblox and whatever)
-* I pull all-nighters sometimes because yes
+* I pull all-nighters sometimes because yes (pls save me)
 
 ## Projects I'm working on:
 ### 🎮 Games 🎮
-* Lucid Nightmares
+* Lucid Nightmares (kinda dead dont have high hopes)
 
 ### 🎤 FNF Mods 🎤
 * VS Guest 666 (Owner)
 * Respect Funkin'
 * VS Paint
 * VS Bob Expanded
-* Doki Doki Funkin' Club! (Cancelled ig)
+* Sunday Night Chillin'
+* Leaq7
