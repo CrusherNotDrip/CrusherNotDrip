@@ -5,7 +5,6 @@
 * Male
 ### 👨 Pronouns 👩
 * he/him
-* they/them
 ### 💬 Socials 💬
 * Discord: crushernotdrip
 * Discord Server: https://discord.gg/3JGWVRWUEJ
@@ -13,15 +12,19 @@
 ### 🌈 Sexuality 🌈
 * Straight
 ### 🤔 What do I do? 🤔
-* I program
+* I program (Not THAT good but decent enough)
 * I game (stuff like cod and roblox and whatever)
-* I pull all-nighters sometimes because yes (pls save me)
 
 ## Projects I'm working on:
 ### 🎮 Games 🎮
-* Lucid Nightmares (kinda dead dont have high hopes)
+* None
+
+### 🤖 Discord Bots 🤖
+* Meeny (My first ever project since 2020) (BETA is mainly being worked on)
+* Mettony (Kinda dead)
 
 ### 🎤 FNF Mods 🎤
+* Chillin' Engine (Half Owner)
 * VS Guest 666 (Owner)
 * Respect Funkin'
 * VS Paint
